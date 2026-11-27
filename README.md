@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis
+# blinkit sales analysis
 
 A single-page, dependency-free dashboard that analyses item-level sales for a Blinkit-style quick-commerce business. It turns raw rows into KPIs, charts and written insights for management.
 
