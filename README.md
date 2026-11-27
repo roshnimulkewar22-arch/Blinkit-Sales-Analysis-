@@ -2,7 +2,7 @@
 
 A single-page, dependency-free dashboard that analyses item-level sales for a Blinkit-style quick-commerce business. It turns raw rows into KPIs, charts and written insights for management.
 
-**Live demo:** https://roshnimulkewar22-arch.github.io/blinkit-sales-analysis/
+**Live demo:** https://roshnimulkewar22-arch.github.io/Blinkit-Sales-Analysis-/
 
 **All data is synthetic and for learning only. It is not real Blinkit data.**
 
